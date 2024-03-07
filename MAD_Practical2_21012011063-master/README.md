@@ -2,9 +2,7 @@ Q. Create Activity to display “Hello World” in TextView in the center of Act
 
 -> Output :-
 
-![001](https://github.com/AMANPATEL1108/MAD_Practical2_21012011063/assets/108643338/10a96ec9-e6a6-4e6a-9d44-627cd1d92043)
-
-![002](https://github.com/AMANPATEL1108/MAD_Practical2_21012011063/assets/108643338/e122e044-f2c2-4249-975d-ca4e655f898a)
-
-
-![image](https://github.com/AMANPATEL1108/MAD_Practical2_21012011063/assets/108643338/110a1093-fb1a-4a82-972d-1d21532cf914)
+![pr 2 mad(1)](https://github.com/AMANPATEL1108/MOBILE_APPLICTION_DEVELOPMENT/assets/108643338/9a65332f-8a07-406e-a9b7-9ec7791aaf00)
+![002](https://github.com/AMANPATEL1108/MOBILE_APPLICTION_DEVELOPMENT/assets/108643338/a210198a-f904-427e-bf61-241a925ff004)
+![001](https://github.com/AMANPATEL1108/MOBILE_APPLICTION_DEVELOPMENT/assets/108643338/6b844c2b-6e68-44c0-978a-26e92ce1101a)
+![pr 2mad](https://github.com/AMANPATEL1108/MOBILE_APPLICTION_DEVELOPMENT/assets/108643338/6504b93c-d92f-4458-9938-e1f466170d33)
