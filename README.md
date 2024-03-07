@@ -18,6 +18,25 @@ To run the application, you'll need:
 Android Studio installed on your machine.
 An Android device or emulator to run the app.
 
+
+Usage
+Calculator
+Input two numbers using the number buttons.
+Press the operation button (+, -, *, /) to perform the desired operation.
+The result will be displayed in the result field.
+Location Alarm
+Press the "Set Location Alarm" button.
+Choose a location on the map where you want to set the alarm.
+Set the radius for the alarm area.
+Press the "Set Alarm" button.
+When you enter the specified radius of the location, the alarm will trigger.
+Libraries Used
+Kotlin
+Google Maps API
+
+
+Screenshots
+
 ![1_11 mad](https://github.com/AMANPATEL1108/MOBILE_APPLICTION_DEVELOPMENT/assets/108643338/e89bc0e2-fe3b-4b00-ac6d-9c1a51bb6b98)
 ![002](![0112](https://github.com/AMANPATEL1108/MOBILE_APPLICTION_DEVELOPMENT/assets/108643338/626d333e-6a34-45b0-89a8-bff588a7bc5d)
 https://github.com/AMANPATEL1108/MOBILE_APPLICTION_DEVELOPMENT/assets/108643338/21dae02f-3f8d-4c6d-a8f7-a3c8cb545342)
