@@ -8,7 +8,7 @@ Add Internet Permssion in Manifest file.
   
 -> Output :-
 
-![pr7_1](https://github.com/AMANPATEL1108/MAD_Practical-7_21012011063/assets/108643338/10af400b-c310-4a20-9e70-fd6c1e439c33)
-
-
-![002 pr7](https://github.com/AMANPATEL1108/MAD_Practical-7_21012011063/assets/108643338/9a403adf-6cee-43f2-8e84-13591844633c)
+![002 pr7](https://github.com/AMANPATEL1108/MOBILE_APPLICTION_DEVELOPMENT/assets/108643338/9bd2b3e2-fb39-4193-8c5d-7c9eb97876da)
+![001 mad pr 7](https://github.com/AMANPATEL1108/MOBILE_APPLICTION_DEVELOPMENT/assets/108643338/8e9ea01a-07e6-4e9a-8418-2f2e84d374b1)
+![pr7_2 png](https://github.com/AMANPATEL1108/MOBILE_APPLICTION_DEVELOPMENT/assets/108643338/42f708bd-870b-48f0-9a6c-2003022f287d)
+![pr7_1](https://github.com/AMANPATEL1108/MOBILE_APPLICTION_DEVELOPMENT/assets/108643338/b575feae-a1c9-4d46-9f95-21cde1bdab61)
