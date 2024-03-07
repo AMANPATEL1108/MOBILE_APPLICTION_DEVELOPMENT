@@ -12,8 +12,7 @@ Add android.permission.SCHEDULE_EXACT_ALARM Permission in Manifest file
 
 
 output:
+![pr8_2](https://github.com/AMANPATEL1108/MOBILE_APPLICTION_DEVELOPMENT/assets/108643338/382cabfd-67b1-49b0-9a56-482bf98be096)
+![pr8_1](https://github.com/AMANPATEL1108/MOBILE_APPLICTION_DEVELOPMENT/assets/108643338/9acff192-edca-44c2-a070-9291e9eb76af)
 
-![image](https://github.com/AMANPATEL1108/MAD_Practical-8_21012011063/assets/108643338/bb8e443d-4b19-41d7-aa95-897947c7accd)
 
-
-![image](https://github.com/AMANPATEL1108/MAD_Practical-8_21012011063/assets/108643338/0b077893-2750-4e93-b08c-363eb8d3c9f8)
