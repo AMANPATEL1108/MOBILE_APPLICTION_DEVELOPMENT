@@ -25,8 +25,6 @@ Ans :- -> Intent is the Process of taking users from one application to another.
 
 -> Output :-
 
-![pr5_1](https://github.com/AMANPATEL1108/MAD_Practical-5_21012011063/assets/108643338/30e614c8-5669-4658-9001-39abf842b981)
-
-
-![pr5_2](https://github.com/AMANPATEL1108/MAD_Practical-5_21012011063/assets/108643338/28a418ac-db21-450a-ba53-22b7714d882d)
+![pr5_2](https://github.com/AMANPATEL1108/MOBILE_APPLICTION_DEVELOPMENT/assets/108643338/35cf95b9-3022-4bbb-b8e1-b591d4b80597)
+![pr5_1](https://github.com/AMANPATEL1108/MOBILE_APPLICTION_DEVELOPMENT/assets/108643338/e6ca2ad3-70e7-4b63-9211-e77f8dd69f4f)
 
