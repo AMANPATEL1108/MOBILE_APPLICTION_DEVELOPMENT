@@ -14,6 +14,8 @@ Ans :-
 3.Bound Service
 
 -> Output :-
+![pr6_1](https://github.com/AMANPATEL1108/MOBILE_APPLICTION_DEVELOPMENT/assets/108643338/ac5962d9-1a50-4c48-8792-ce5965b08ca0)
 
 
-![001 mad pr 6](https://github.com/AMANPATEL1108/MAD_Practical-6_21012011063/assets/108643338/13fec0e8-8a7a-4d7c-91a7-3a5ac3a3cd30)
+![001 mad pr 6](https://github.com/AMANPATEL1108/MOBILE_APPLICTION_DEVELOPMENT/assets/108643338/744b471c-d81f-41e4-8759-7e8c21d32d3f)
+
