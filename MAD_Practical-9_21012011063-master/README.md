@@ -8,7 +8,6 @@ AIM: What is Frame by Frame Animation? What is Twin Animation? How can you achie
 
 output:
 
-![image](https://github.com/AMANPATEL1108/MAD_Practical-9_21012011063/assets/108643338/9e2014ee-22d4-4571-9825-6625e45d7acc)
 
-![image](https://github.com/AMANPATEL1108/MAD_Practical-9_21012011063/assets/108643338/886fafc7-b3cd-4958-a684-c9b4c9052994)
-
+![p9_1](https://github.com/AMANPATEL1108/MOBILE_APPLICTION_DEVELOPMENT/assets/108643338/63e077d6-5d4e-45ba-9b94-5bf1f31dc40f)
+![p9_2](https://github.com/AMANPATEL1108/MOBILE_APPLICTION_DEVELOPMENT/assets/108643338/be619897-3ed9-4af5-aac6-4d6a3658cdc5)
