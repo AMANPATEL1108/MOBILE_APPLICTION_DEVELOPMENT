@@ -1,5 +1,5 @@
 Q. Create following UI by using ConstraintLayout.
 
-![0111](https://github.com/AMANPATEL1108/mad_practical3_21012011063/assets/108643338/9ee93f9c-9f68-482e-a7d2-65c29e021911)
 
-![0112](https://github.com/AMANPATEL1108/mad_practical3_21012011063/assets/108643338/1fdcb0d6-4330-4100-9655-8086e3d4f836)
+![0112](https://github.com/AMANPATEL1108/MOBILE_APPLICTION_DEVELOPMENT/assets/108643338/79c1073a-6a55-4bb7-ab7c-29b5cf272155)
+![0111](https://github.com/AMANPATEL1108/MOBILE_APPLICTION_DEVELOPMENT/assets/108643338/33017db3-83e2-4bfa-9014-58d51ed455b8)
